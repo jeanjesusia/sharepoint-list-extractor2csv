@@ -1,0 +1,2 @@
+pandas
+office365-rest-python-client==2.5.14
